@@ -273,12 +273,13 @@ body {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   width: 1100px;
-  min-height: 180px;
   margin-top: 172px;
-  padding: 0px 51px;
+  padding-left: 51px;
+  padding-right: 51px;
   font-size: 18px;
   line-height: 1.35;
   text-underline-offset: 3px;
+  padding-bottom: 82px;
 }
 
 .footer__address {
